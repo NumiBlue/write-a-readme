@@ -1,0 +1,19 @@
+{
+  "name": "write-a-readme",
+  "version": "1.0.0",
+  "description": "This is an application that generates a README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumiBlue/write-a-readme.git"
+  },
+  "author": "numiblue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NumiBlue/write-a-readme/issues"
+  },
+  "homepage": "https://github.com/NumiBlue/write-a-readme#readme"
+}
